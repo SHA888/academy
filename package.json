@@ -1,0 +1,19 @@
+{
+  "name": "ivan-on-tech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SHA888/academy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SHA888/academy/issues"
+  },
+  "homepage": "https://github.com/SHA888/academy#readme"
+}
